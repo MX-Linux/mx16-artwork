@@ -8,3 +8,4 @@ wallpaper_symlinks/* usr/share/backgrounds
 
 login_links/*		usr/share/backgrounds/MXLinux/lightdm
 grub_links/*	usr/share/backgrounds/MXLinux/grub
+wallpapers/*	usr/share/wallpapers
