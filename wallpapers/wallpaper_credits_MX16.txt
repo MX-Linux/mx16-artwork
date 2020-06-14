@@ -1,1 +1,1 @@
-wallpaper_credits_MX16.txt
+/usr/local/share/backgrounds/MXLinux/wallpaper/wallpaper_credits_MX16.txt
