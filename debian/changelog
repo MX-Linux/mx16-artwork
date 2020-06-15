@@ -1,3 +1,9 @@
+mx16-artwork (17.0.4) mx; urgency=medium
+
+  * symlinks in /usr/share/wallpapers
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sun, 14 Jun 2020 20:17:16 -0400
+
 mx16-artwork (17.0.3) mx; urgency=medium
 
   * update control file 
